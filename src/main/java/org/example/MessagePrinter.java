@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.producaer.MessageProducer;
+import org.example.producer.MessageProducer;
 import org.springframework.stereotype.Service;
 
 @Service

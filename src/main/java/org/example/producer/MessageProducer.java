@@ -1,6 +1,4 @@
-package org.example.producaer;
-
-import java.util.Scanner;
+package org.example.producer;
 
 public interface MessageProducer {
     String getMessage();

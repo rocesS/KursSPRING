@@ -1,6 +1,5 @@
-package org.example.producaer;
+package org.example.producer;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
